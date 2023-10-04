@@ -1,0 +1,20 @@
+<html>
+   <head>
+        <title>Tabla</title>
+   </head>
+      <body>
+          <center> <h1>Tablas</h1></center> <hr=black>
+       <br> <br> 
+          <table border="1" align="center" width=75% bordercolor="black"
+            <tr align="center"> <td rowspan="4" width="5%"><font color="green">Datos</font></td> 
+            <th colspan="2"><font color="green">Apellidos y Nombres</font></td>
+            <th>Dirección</td> </tr> <tr align="center"> 
+            <td><font color="green">Pérez</font></td> 
+            <td><font color="green">Juan</font></td> 
+            <td><font color="green">Xela</font><|td></tr> <tr align="center"> 
+            <td><font color="green">Gonzáles>
+            <td><font color="green">Julian></font></td>
+            <td>&nbsp;</td> <td></td> <td></td> </tr>
+           <td></td> <td></td> </tr> </table>
+      </body>
+ </html>
